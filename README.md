@@ -2,12 +2,14 @@
 
 # Hi, I'm tomystark456
 
-### Frontend Developer (graduate)
+### Frontend Developer
+
+**Выпускник «Фронтенд-разработчик» — [Яндекс Практикум](https://practicum.yandex.ru/)**
 
 **React · Tailwind CSS · Bootstrap · TypeScript / JavaScript**
 
-I know frontend well and ship polished, responsive UIs.  
-Also building **RAG / AI** systems in Python at **Tomorrow School**.
+I ship polished, responsive UIs.  
+Also building **RAG / AI** in Python at **Tomorrow School**.
 
 </div>
 
@@ -15,10 +17,18 @@ Also building **RAG / AI** systems in Python at **Tomorrow School**.
 
 ### About me
 
-- **Выпускник «Фронтенд-разработчик»** — уверенный frontend: React, Bootstrap, Tailwind, TypeScript, HTML/CSS
-- Делаю современные интерфейсы: компоненты, адаптивная вёрстка, UX, работа с API
-- Сейчас углубляюсь в **AI / RAG** (Tomorrow School) и Python — чтобы связывать UI с умными продуктами
-- Open to frontend roles, full-stack with React, and AI-adjacent product work
+- **Выпускник курса «Фронтенд-разработчик», Яндекс Практикум**
+- Уверенный frontend: **React**, **Bootstrap**, **Tailwind**, TypeScript, HTML/CSS
+- Современные интерфейсы: компоненты, адаптивная вёрстка, UX, работа с API
+- Сейчас — **AI / RAG** path в **Tomorrow School** (Python), UI + умные продукты
+- Open to frontend roles and product work with React
+
+### Education
+
+| | |
+|--|--|
+| **Яндекс Практикум** | Фронтенд-разработчик — *graduate* |
+| **Tomorrow School** | AI / RAG track — *student* |
 
 ### Frontend stack (core)
 
@@ -40,7 +50,7 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | HTML/CSS | Git
 
 ### Featured work
 
-**Frontend**
+**Frontend** (Yandex Practicum path and related)
 
 | Repo | What it is |
 |------|------------|
@@ -73,7 +83,7 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | HTML/CSS | Git
 ### Open to
 
 - **Frontend Developer** roles (React, Tailwind, Bootstrap, TypeScript)
-- Product UI work and dashboards
+- Product UI and dashboards
 - Projects where frontend meets APIs / AI features
 
 ---
@@ -82,6 +92,6 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | HTML/CSS | Git
 
 **Profile:** [github.com/tomystark456](https://github.com/tomystark456)
 
-*Frontend Developer graduate | React · Tailwind · Bootstrap | Tomorrow School AI*
+*Яндекс Практикум — Фронтенд-разработчик | React · Tailwind · Bootstrap | Tomorrow School AI*
 
 </div>
