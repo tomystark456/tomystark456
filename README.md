@@ -2,7 +2,7 @@
 
 # Hi, I'm tomystark456
 
-**Tomorrow School student · RAG / AI · Python developer**
+**Tomorrow School student | RAG / AI | Python developer**
 
 I build retrieval-augmented systems, research agents, and practical AI tools in Python.
 
@@ -14,14 +14,14 @@ I build retrieval-augmented systems, research agents, and practical AI tools in 
 
 - Student at **Tomorrow School**
 - Focus: **RAG**, LLM apps, Python backend for AI
-- I like turning models into usable products — agents, document pipelines, multilingual tools
+- I like turning models into usable products: agents, document pipelines, multilingual tools
 - Open to collabs, internships, and interesting AI problems
 
 ### Stack
 
-**Core:** Python · RAG · LLMs · REST APIs  
-**AI / data:** vector search · embeddings · document processing · agents  
-**Also:** JavaScript / TypeScript · HTML/CSS · Flask · React (when needed)
+**Core:** Python | RAG | LLMs | REST APIs  
+**AI / data:** vector search | embeddings | document processing | agents  
+**Also:** JavaScript / TypeScript | HTML/CSS | Flask | React (when needed)
 
 ```text
 Python | RAG | LLM pipelines | Ollama | FastAPI/Flask | Git
@@ -63,6 +63,6 @@ Python | RAG | LLM pipelines | Ollama | FastAPI/Flask | Git
 
 **Profile:** [github.com/tomystark456](https://github.com/tomystark456)
 
-*Built with curiosity · Tomorrow School · AI path*
+*Built with curiosity | Tomorrow School | AI path*
 
 </div>
