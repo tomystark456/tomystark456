@@ -16,8 +16,6 @@
 [![Email](https://img.shields.io/badge/Email-tomystark456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomystark456@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tomystark456-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomystark456)
 
-**Open to work** — Frontend Developer · React UI · product dashboards
-
 </div>
 
 ---
@@ -28,7 +26,7 @@
 - Strong in **React**, **Tailwind**, **Bootstrap**, TypeScript/JavaScript, responsive layout
 - Building modern interfaces: components, UX, REST APIs, clean UI architecture
 - Studying **AI / RAG** at **Tomorrow School** — connect UI with smart products
-- Based in **Kazakhstan** · available for remote / hybrid work
+- Based in **Kazakhstan**
 
 ### Education
 
@@ -80,13 +78,6 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | Python | RAG | Git
 
 </details>
 
-### GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tomystark456&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomystark456&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
-</p>
-
 ### Contact
 
 | | |
@@ -98,8 +89,6 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | Python | RAG | Git
 ---
 
 <div align="center">
-
-Ready to build clean UI and ship features.
 
 **Telegram:** [t.me/Dias_998](https://t.me/Dias_998) · **Email:** tomystark456@gmail.com
 
