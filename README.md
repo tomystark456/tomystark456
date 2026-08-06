@@ -20,29 +20,30 @@ I build retrieval-augmented systems, research agents, and practical AI tools in 
 ### Stack
 
 **Core:** Python | RAG | LLMs | REST APIs  
-**AI / data:** vector search | embeddings | document processing | agents  
-**Also:** JavaScript / TypeScript | HTML/CSS | Flask | React (when needed)
+**AI / data:** NLP | transformers | scikit-learn | pandas | embeddings | agents  
+**Also:** Go | Docker | JavaScript / TypeScript | Flask / FastAPI
 
 ```text
-Python | RAG | LLM pipelines | Ollama | FastAPI/Flask | Git
+Python | NLP | DistilBERT | SpaCy | scikit-learn | pandas | Go | Docker | Git
 ```
 
 ### Currently focused on
 
 - Designing **RAG** pipelines (ingest → chunk → embed → retrieve → generate)
-- **AI agents** for research and knowledge workflows
+- **Document AI**: classification, NER tagging, OCR workflows
 - Clean, maintainable Python for real projects (not just notebooks)
 
 ### Featured public work
 
 | Repo | What it is |
 |------|------------|
-| [RAG-BultAI](https://github.com/tomystark456/RAG-BultAI) | Exploring RAG architecture and AI tooling |
-| [DeepSeek-OCR-WebUI](https://github.com/tomystark456/DeepSeek-OCR-WebUI) | OCR Web UI for document recognition workflows |
-| [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Frontend course project (TypeScript) |
-| [blog-customizer](https://github.com/tomystark456/blog-customizer) | Customizable blog UI (TypeScript) |
-
-> More AI / Python work lives in private repos while I polish READMEs and demos for public release.
+| [document-categorization](https://github.com/tomystark456/document-categorization) | Multilingual doc classification + NER (DistilBERT, SpaCy, Streamlit) |
+| [forest-prediction](https://github.com/tomystark456/forest-prediction) | Forest cover type ML pipelines with honest CV and model selection |
+| [backtesting-sp500](https://github.com/tomystark456/backtesting-sp500) | SP500 momentum backtest: pandas panel, top-20 signal, PnL |
+| [spectral-learning](https://github.com/tomystark456/spectral-learning) | PCA and SVD from scratch on Wine Quality |
+| [ai-ping-pong](https://github.com/tomystark456/ai-ping-pong) | Genetic-algorithm ping-pong bots (Pygame) |
+| [filevault](https://github.com/tomystark456/filevault) | Go microservices file vault (gRPC, versioning, audit) |
+| [go-forum](https://github.com/tomystark456/go-forum) | Full-stack Go forum: auth, posts, likes, Docker |
 
 ### GitHub stats
 
