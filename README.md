@@ -4,7 +4,7 @@
 
 ### Frontend Developer
 
-**Выпускник «Фронтенд-разработчик» — [Яндекс Практикум](https://practicum.yandex.ru/)**
+**Выпускник «Фронтенд-разработчик» — [Яндекс Практикум](https://practicum.yandex.kz/)**
 
 **React · Tailwind CSS · Bootstrap · TypeScript / JavaScript**
 
