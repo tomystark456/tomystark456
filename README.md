@@ -1,15 +1,22 @@
 <div align="center">
 
-# Hi, I'm tomystark456
+# Dias
 
 ### Frontend Developer
 
 **Выпускник «Фронтенд-разработчик» — [Яндекс Практикум](https://practicum.yandex.kz/)**
 
-**React · Tailwind CSS · Bootstrap · TypeScript / JavaScript**
+`React` · `Tailwind CSS` · `Bootstrap` · `TypeScript` · `JavaScript`
 
-I ship polished, responsive UIs.  
-Also building **RAG / AI** in Python at **Tomorrow School**.
+Полированные адаптивные UI · сейчас ещё **RAG / AI** на Python в **Tomorrow School**
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Dias__998-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dias_998)
+[![Email](https://img.shields.io/badge/Email-tomystark456%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomystark456@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-tomystark456-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tomystark456)
+
+**Open to work** — Frontend Developer · React UI · product dashboards
 
 </div>
 
@@ -17,61 +24,61 @@ Also building **RAG / AI** in Python at **Tomorrow School**.
 
 ### About me
 
-- **Выпускник курса «Фронтенд-разработчик», Яндекс Практикум**
-- Уверенный frontend: **React**, **Bootstrap**, **Tailwind**, TypeScript, HTML/CSS
-- Современные интерфейсы: компоненты, адаптивная вёрстка, UX, работа с API
-- Сейчас — **AI / RAG** path в **Tomorrow School** (Python), UI + умные продукты
-- Open to frontend roles and product work with React
+- **Frontend Developer**, graduate of **Yandex Practicum** (Фронтенд-разработчик)
+- Strong in **React**, **Tailwind**, **Bootstrap**, TypeScript/JavaScript, responsive layout
+- Building modern interfaces: components, UX, REST APIs, clean UI architecture
+- Studying **AI / RAG** at **Tomorrow School** — connect UI with smart products
+- Based in **Kazakhstan** · available for remote / hybrid work
 
 ### Education
 
 | | |
 |--|--|
-| **Яндекс Практикум** | Фронтенд-разработчик — *graduate* |
+| **[Яндекс Практикум](https://practicum.yandex.kz/)** | Фронтенд-разработчик — *graduate* |
 | **Tomorrow School** | AI / RAG track — *student* |
 
-### Frontend stack (core)
+### Stack
 
-| Area | Tools |
-|------|--------|
-| UI | **React**, component architecture |
-| Styles | **Tailwind CSS**, **Bootstrap**, modern CSS |
-| Language | **TypeScript**, JavaScript (ES6+) |
-| Basics | HTML5, CSS3, responsive layout, accessibility |
-| Tooling | Git, npm, REST APIs, browser DevTools |
+**Frontend (core)**  
+React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · HTML5 · CSS3 · Git · npm · REST
+
+**Also**  
+Python · RAG / NLP · scikit-learn · pandas · Docker · Go (systems practice)
 
 ```text
-React | TypeScript | Tailwind | Bootstrap | JavaScript | HTML/CSS | Git
+React | TypeScript | Tailwind | Bootstrap | JavaScript | Python | RAG | Git
 ```
 
-### Also building (AI path)
+### Featured projects
 
-**Python** · RAG · LLMs · NLP · scikit-learn · pandas · Docker · Go (systems practice)
+<details open>
+<summary><b>Frontend</b></summary>
 
-### Featured work
-
-**Frontend** (Yandex Practicum path and related)
-
-| Repo | What it is |
-|------|------------|
+| Project | Stack / idea |
+|---------|----------------|
 | [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Online shop frontend — TypeScript |
 | [blog-customizer](https://github.com/tomystark456/blog-customizer) | Blog UI customizer — TypeScript |
 | [stellar-burgers](https://github.com/tomystark456/stellar-burgers) | Burger constructor UI |
-| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Interactive photo gallery — JS |
-| [slozhno-sosredotochitsya](https://github.com/tomystark456/slozhno-sosredotochitsya) | Layout and accessibility practice |
-| [posmotri_v_okno](https://github.com/tomystark456/posmotri_v_okno) | Multimedia UI practice — JS |
+| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Photo gallery — vanilla JS |
+| [slozhno-sosredotochitsya](https://github.com/tomystark456/slozhno-sosredotochitsya) | Layout + accessibility |
+| [posmotri_v_okno](https://github.com/tomystark456/posmotri_v_okno) | Multimedia UI practice |
 
-**AI / ML / systems**
+</details>
 
-| Repo | What it is |
-|------|------------|
+<details open>
+<summary><b>AI / ML / systems</b></summary>
+
+| Project | Stack / idea |
+|---------|----------------|
 | [document-categorization](https://github.com/tomystark456/document-categorization) | Multilingual classification + NER (DistilBERT, SpaCy) |
-| [forest-prediction](https://github.com/tomystark456/forest-prediction) | ML classification pipelines + model selection |
+| [forest-prediction](https://github.com/tomystark456/forest-prediction) | Cover-type ML pipelines + GridSearchCV |
 | [backtesting-sp500](https://github.com/tomystark456/backtesting-sp500) | SP500 momentum backtest (pandas) |
 | [spectral-learning](https://github.com/tomystark456/spectral-learning) | PCA / SVD from scratch |
 | [ai-ping-pong](https://github.com/tomystark456/ai-ping-pong) | Genetic-algorithm game bots |
 | [filevault](https://github.com/tomystark456/filevault) | Go microservices file vault |
 | [go-forum](https://github.com/tomystark456/go-forum) | Full-stack Go forum + Docker |
+
+</details>
 
 ### GitHub stats
 
@@ -80,18 +87,22 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | HTML/CSS | Git
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomystark456&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
 </p>
 
-### Open to
+### Contact
 
-- **Frontend Developer** roles (React, Tailwind, Bootstrap, TypeScript)
-- Product UI and dashboards
-- Projects where frontend meets APIs / AI features
+| | |
+|--|--|
+| Telegram | [@Dias_998](https://t.me/Dias_998) |
+| Email | [tomystark456@gmail.com](mailto:tomystark456@gmail.com) |
+| GitHub | [github.com/tomystark456](https://github.com/tomystark456) |
 
 ---
 
 <div align="center">
 
-**Profile:** [github.com/tomystark456](https://github.com/tomystark456)
+Ready to build clean UI and ship features.
 
-*Яндекс Практикум — Фронтенд-разработчик | React · Tailwind · Bootstrap | Tomorrow School AI*
+**Telegram:** [t.me/Dias_998](https://t.me/Dias_998) · **Email:** tomystark456@gmail.com
+
+*Яндекс Практикум — Frontend | React · Tailwind · Bootstrap | Tomorrow School AI*
 
 </div>
