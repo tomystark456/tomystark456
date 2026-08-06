@@ -2,9 +2,12 @@
 
 # Hi, I'm tomystark456
 
-**Frontend Developer (graduate) | RAG / AI · Python | Tomorrow School**
+### Frontend Developer (graduate)
 
-I ship clean UIs with **React**, **Bootstrap** and **Tailwind**, and build AI systems in Python — RAG, NLP, and agents.
+**React · Tailwind CSS · Bootstrap · TypeScript / JavaScript**
+
+I know frontend well and ship polished, responsive UIs.  
+Also building **RAG / AI** systems in Python at **Tomorrow School**.
 
 </div>
 
@@ -12,50 +15,53 @@ I ship clean UIs with **React**, **Bootstrap** and **Tailwind**, and build AI sy
 
 ### About me
 
-- **Frontend Developer** graduate — React, Bootstrap, Tailwind, TypeScript/JavaScript
-- Student at **Tomorrow School** — path: **RAG**, LLM apps, Python for AI
-- Comfortable full-stack: UI components, responsive layout, APIs, ML pipelines
-- Like turning models and ideas into products people can actually use
-- Open to collabs, internships, and product-minded engineering work
+- **Выпускник «Фронтенд-разработчик»** — уверенный frontend: React, Bootstrap, Tailwind, TypeScript, HTML/CSS
+- Делаю современные интерфейсы: компоненты, адаптивная вёрстка, UX, работа с API
+- Сейчас углубляюсь в **AI / RAG** (Tomorrow School) и Python — чтобы связывать UI с умными продуктами
+- Open to frontend roles, full-stack with React, and AI-adjacent product work
 
-### Stack
+### Frontend stack (core)
 
-**Frontend:** React | Bootstrap | Tailwind CSS | TypeScript | JavaScript | HTML/CSS  
-**AI / backend:** Python | RAG | LLMs | NLP | scikit-learn | pandas | REST APIs  
-**Also:** Go | Docker | Flask / FastAPI | Git
+| Area | Tools |
+|------|--------|
+| UI | **React**, component architecture |
+| Styles | **Tailwind CSS**, **Bootstrap**, modern CSS |
+| Language | **TypeScript**, JavaScript (ES6+) |
+| Basics | HTML5, CSS3, responsive layout, accessibility |
+| Tooling | Git, npm, REST APIs, browser DevTools |
 
 ```text
-React | Tailwind | Bootstrap | TypeScript | Python | RAG | NLP | Docker | Git
+React | TypeScript | Tailwind | Bootstrap | JavaScript | HTML/CSS | Git
 ```
 
-### Currently focused on
+### Also building (AI path)
 
-- **Frontend:** component-driven UI, responsive design, modern CSS (Tailwind / Bootstrap)
-- **AI:** RAG pipelines, document classification / NER, practical LLM tooling
-- Bridging UI and AI — dashboards and products around models, not only notebooks
+**Python** · RAG · LLMs · NLP · scikit-learn · pandas · Docker · Go (systems practice)
 
-### Featured public work
-
-**AI / ML / systems**
-
-| Repo | What it is |
-|------|------------|
-| [document-categorization](https://github.com/tomystark456/document-categorization) | Multilingual doc classification + NER (DistilBERT, SpaCy, Streamlit) |
-| [forest-prediction](https://github.com/tomystark456/forest-prediction) | Forest cover type ML pipelines with honest CV and model selection |
-| [backtesting-sp500](https://github.com/tomystark456/backtesting-sp500) | SP500 momentum backtest: pandas panel, top-20 signal, PnL |
-| [spectral-learning](https://github.com/tomystark456/spectral-learning) | PCA and SVD from scratch on Wine Quality |
-| [ai-ping-pong](https://github.com/tomystark456/ai-ping-pong) | Genetic-algorithm ping-pong bots (Pygame) |
-| [filevault](https://github.com/tomystark456/filevault) | Go microservices file vault (gRPC, versioning, audit) |
-| [go-forum](https://github.com/tomystark456/go-forum) | Full-stack Go forum: auth, posts, likes, Docker |
+### Featured work
 
 **Frontend**
 
 | Repo | What it is |
 |------|------------|
-| [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Online shop frontend (TypeScript) |
-| [blog-customizer](https://github.com/tomystark456/blog-customizer) | Blog UI customizer (TypeScript) |
-| [stellar-burgers](https://github.com/tomystark456/stellar-burgers) | Burger constructor UI practice |
-| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Interactive photo gallery (vanilla JS) |
+| [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Online shop frontend — TypeScript |
+| [blog-customizer](https://github.com/tomystark456/blog-customizer) | Blog UI customizer — TypeScript |
+| [stellar-burgers](https://github.com/tomystark456/stellar-burgers) | Burger constructor UI |
+| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Interactive photo gallery — JS |
+| [slozhno-sosredotochitsya](https://github.com/tomystark456/slozhno-sosredotochitsya) | Layout and accessibility practice |
+| [posmotri_v_okno](https://github.com/tomystark456/posmotri_v_okno) | Multimedia UI practice — JS |
+
+**AI / ML / systems**
+
+| Repo | What it is |
+|------|------------|
+| [document-categorization](https://github.com/tomystark456/document-categorization) | Multilingual classification + NER (DistilBERT, SpaCy) |
+| [forest-prediction](https://github.com/tomystark456/forest-prediction) | ML classification pipelines + model selection |
+| [backtesting-sp500](https://github.com/tomystark456/backtesting-sp500) | SP500 momentum backtest (pandas) |
+| [spectral-learning](https://github.com/tomystark456/spectral-learning) | PCA / SVD from scratch |
+| [ai-ping-pong](https://github.com/tomystark456/ai-ping-pong) | Genetic-algorithm game bots |
+| [filevault](https://github.com/tomystark456/filevault) | Go microservices file vault |
+| [go-forum](https://github.com/tomystark456/go-forum) | Full-stack Go forum + Docker |
 
 ### GitHub stats
 
@@ -64,11 +70,11 @@ React | Tailwind | Bootstrap | TypeScript | Python | RAG | NLP | Docker | Git
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomystark456&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages" />
 </p>
 
-### What I'm open to
+### Open to
 
-- Frontend roles (React / Tailwind / Bootstrap)
-- RAG / LLM products and Python AI integration
-- Full-stack work where UI meets data and models
+- **Frontend Developer** roles (React, Tailwind, Bootstrap, TypeScript)
+- Product UI work and dashboards
+- Projects where frontend meets APIs / AI features
 
 ---
 
@@ -76,6 +82,6 @@ React | Tailwind | Bootstrap | TypeScript | Python | RAG | NLP | Docker | Git
 
 **Profile:** [github.com/tomystark456](https://github.com/tomystark456)
 
-*Frontend graduate | Tomorrow School | AI + UI*
+*Frontend Developer graduate | React · Tailwind · Bootstrap | Tomorrow School AI*
 
 </div>
