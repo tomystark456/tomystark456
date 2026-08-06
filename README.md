@@ -2,9 +2,9 @@
 
 # Hi, I'm tomystark456
 
-**Tomorrow School student | RAG / AI | Python developer**
+**Frontend Developer (graduate) | RAG / AI · Python | Tomorrow School**
 
-I build retrieval-augmented systems, research agents, and practical AI tools in Python.
+I ship clean UIs with **React**, **Bootstrap** and **Tailwind**, and build AI systems in Python — RAG, NLP, and agents.
 
 </div>
 
@@ -12,28 +12,31 @@ I build retrieval-augmented systems, research agents, and practical AI tools in 
 
 ### About me
 
-- Student at **Tomorrow School**
-- Focus: **RAG**, LLM apps, Python backend for AI
-- I like turning models into usable products: agents, document pipelines, multilingual tools
-- Open to collabs, internships, and interesting AI problems
+- **Frontend Developer** graduate — React, Bootstrap, Tailwind, TypeScript/JavaScript
+- Student at **Tomorrow School** — path: **RAG**, LLM apps, Python for AI
+- Comfortable full-stack: UI components, responsive layout, APIs, ML pipelines
+- Like turning models and ideas into products people can actually use
+- Open to collabs, internships, and product-minded engineering work
 
 ### Stack
 
-**Core:** Python | RAG | LLMs | REST APIs  
-**AI / data:** NLP | transformers | scikit-learn | pandas | embeddings | agents  
-**Also:** Go | Docker | JavaScript / TypeScript | Flask / FastAPI
+**Frontend:** React | Bootstrap | Tailwind CSS | TypeScript | JavaScript | HTML/CSS  
+**AI / backend:** Python | RAG | LLMs | NLP | scikit-learn | pandas | REST APIs  
+**Also:** Go | Docker | Flask / FastAPI | Git
 
 ```text
-Python | NLP | DistilBERT | SpaCy | scikit-learn | pandas | Go | Docker | Git
+React | Tailwind | Bootstrap | TypeScript | Python | RAG | NLP | Docker | Git
 ```
 
 ### Currently focused on
 
-- Designing **RAG** pipelines (ingest → chunk → embed → retrieve → generate)
-- **Document AI**: classification, NER tagging, OCR workflows
-- Clean, maintainable Python for real projects (not just notebooks)
+- **Frontend:** component-driven UI, responsive design, modern CSS (Tailwind / Bootstrap)
+- **AI:** RAG pipelines, document classification / NER, practical LLM tooling
+- Bridging UI and AI — dashboards and products around models, not only notebooks
 
 ### Featured public work
+
+**AI / ML / systems**
 
 | Repo | What it is |
 |------|------------|
@@ -45,6 +48,15 @@ Python | NLP | DistilBERT | SpaCy | scikit-learn | pandas | Go | Docker | Git
 | [filevault](https://github.com/tomystark456/filevault) | Go microservices file vault (gRPC, versioning, audit) |
 | [go-forum](https://github.com/tomystark456/go-forum) | Full-stack Go forum: auth, posts, likes, Docker |
 
+**Frontend**
+
+| Repo | What it is |
+|------|------------|
+| [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Online shop frontend (TypeScript) |
+| [blog-customizer](https://github.com/tomystark456/blog-customizer) | Blog UI customizer (TypeScript) |
+| [stellar-burgers](https://github.com/tomystark456/stellar-burgers) | Burger constructor UI practice |
+| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Interactive photo gallery (vanilla JS) |
+
 ### GitHub stats
 
 <p align="center">
@@ -54,9 +66,9 @@ Python | NLP | DistilBERT | SpaCy | scikit-learn | pandas | Go | Docker | Git
 
 ### What I'm open to
 
-- RAG / LLM product ideas
-- Python backend and AI integration work
-- Learning in public with other builders
+- Frontend roles (React / Tailwind / Bootstrap)
+- RAG / LLM products and Python AI integration
+- Full-stack work where UI meets data and models
 
 ---
 
@@ -64,6 +76,6 @@ Python | NLP | DistilBERT | SpaCy | scikit-learn | pandas | Go | Docker | Git
 
 **Profile:** [github.com/tomystark456](https://github.com/tomystark456)
 
-*Built with curiosity | Tomorrow School | AI path*
+*Frontend graduate | Tomorrow School | AI + UI*
 
 </div>
