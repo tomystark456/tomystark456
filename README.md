@@ -21,47 +21,34 @@
 
 ### About me
 
-- **Frontend Developer**, graduate of **Yandex Practicum** (Фронтенд-разработчик)
-- Strong in **React**, **Tailwind**, **Bootstrap**, TypeScript/JavaScript, responsive layout
-- Building modern interfaces: components, UX, REST APIs, clean UI architecture
-- Studying **AI / RAG** at **Tomorrow School** — connect UI with smart products
+- **AI / RAG Engineer**, выпускник **Tomorrow School** (AI / RAG track), магистрант **[QAIRU](https://qairu.edu.kz/ru)**
+- Строю RAG-пайплайны, NLP и ML-модели на **Python**
+- **Frontend Developer**, выпускник **Yandex Practicum** (Фронтенд-разработчик)
+- Сильные стороны во фронтенде: **React**, **Tailwind**, **Bootstrap**, TypeScript/JavaScript, адаптивная вёрстка
+- Соединяю AI-логику с интерфейсами: компоненты, UX, REST API, аккуратная архитектура UI
 - Based in **Kazakhstan**
 
 ### Education
 
 | | |
 |--|--|
-| **[Яндекс Практикум](https://practicum.yandex.kz/)** | Фронтенд-разработчик — *graduate* |
-| **Tomorrow School** | AI / RAG track — *student* |
 | **[QAIRU](https://qairu.edu.kz/ru)** | Магистратура — *master's student* |
+| **Tomorrow School** | AI / RAG track — *graduate* |
+| **[Яндекс Практикум](https://practicum.yandex.kz/)** | Фронтенд-разработчик — *graduate* |
 
 ### Stack
 
-**Frontend (core)**  
+**AI / ML (core)**  
+Python · RAG / NLP · LLM · scikit-learn · pandas · Docker · Go (systems practice)
+
+**Frontend**  
 React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · HTML5 · CSS3 · Git · npm · REST
 
-**Also**  
-Python · RAG / NLP · scikit-learn · pandas · Docker · Go (systems practice)
-
 ```text
-React | TypeScript | Tailwind | Bootstrap | JavaScript | Python | RAG | Git
+Python | RAG | NLP | React | TypeScript | Tailwind | Bootstrap | Docker | Git
 ```
 
 ### Featured projects
-
-<details open>
-<summary><b>Frontend</b></summary>
-
-| Project | Stack / idea |
-|---------|----------------|
-| [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Online shop frontend — TypeScript |
-| [blog-customizer](https://github.com/tomystark456/blog-customizer) | Blog UI customizer — TypeScript |
-| [stellar-burgers](https://github.com/tomystark456/stellar-burgers) | Burger constructor UI |
-| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Photo gallery — vanilla JS |
-| [slozhno-sosredotochitsya](https://github.com/tomystark456/slozhno-sosredotochitsya) | Layout + accessibility |
-| [posmotri_v_okno](https://github.com/tomystark456/posmotri_v_okno) | Multimedia UI practice |
-
-</details>
 
 <details open>
 <summary><b>AI / ML / systems</b></summary>
@@ -75,6 +62,20 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | Python | RAG | Git
 | [ai-ping-pong](https://github.com/tomystark456/ai-ping-pong) | Genetic-algorithm game bots |
 | [filevault](https://github.com/tomystark456/filevault) | Go microservices file vault |
 | [go-forum](https://github.com/tomystark456/go-forum) | Full-stack Go forum + Docker |
+
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+
+| Project | Stack / idea |
+|---------|----------------|
+| [web-larek-frontend](https://github.com/tomystark456/web-larek-frontend) | Online shop frontend — TypeScript |
+| [blog-customizer](https://github.com/tomystark456/blog-customizer) | Blog UI customizer — TypeScript |
+| [stellar-burgers](https://github.com/tomystark456/stellar-burgers) | Burger constructor UI |
+| [mesto-project-ff](https://github.com/tomystark456/mesto-project-ff) | Photo gallery — vanilla JS |
+| [slozhno-sosredotochitsya](https://github.com/tomystark456/slozhno-sosredotochitsya) | Layout + accessibility |
+| [posmotri_v_okno](https://github.com/tomystark456/posmotri_v_okno) | Multimedia UI practice |
 
 </details>
 
@@ -92,6 +93,6 @@ React | TypeScript | Tailwind | Bootstrap | JavaScript | Python | RAG | Git
 
 **Telegram:** [t.me/Dias_998](https://t.me/Dias_998) · **Email:** tomystark456@gmail.com
 
-*Яндекс Практикум — Frontend | React · Tailwind · Bootstrap | Tomorrow School AI*
+*AI / RAG Engineer — Tomorrow School · QAIRU | Frontend — React · Tailwind · Bootstrap*
 
 </div>
