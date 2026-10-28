@@ -33,6 +33,7 @@
 |--|--|
 | **[Яндекс Практикум](https://practicum.yandex.kz/)** | Фронтенд-разработчик — *graduate* |
 | **Tomorrow School** | AI / RAG track — *student* |
+| **[QAIRU](https://qairu.edu.kz/ru)** | Магистратура — *master's student* |
 
 ### Stack
 
