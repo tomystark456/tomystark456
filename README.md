@@ -32,8 +32,8 @@
 
 | | |
 |--|--|
-| **[QAIRU](https://qairu.edu.kz/ru)** | Магистратура — *master's student* |
-| **Tomorrow School** | AI / RAG track — *graduate* |
+| **[QAIRU](https://qairu.edu.kz/ru)** | Магистратура — *master's degree* |
+| **[Tomorrow School](https://tomorrow-school.ai/)** | AI / RAG track — *graduate* |
 | **[Яндекс Практикум](https://practicum.yandex.kz/)** | Фронтенд-разработчик — *graduate* |
 
 ### Stack
