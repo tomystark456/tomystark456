@@ -1,13 +1,13 @@
 <div align="center">
 
 
-### Frontend Developer
+### AI / RAG Engineer
 
-**Выпускник «Фронтенд-разработчик» — [Яндекс Практикум](https://practicum.yandex.kz/)**
+**Магистрант [QAIRU](https://qairu.edu.kz/ru) · выпускник Tomorrow School**
 
-`React` · `Tailwind CSS` · `Bootstrap` · `TypeScript` · `JavaScript`
+`Python` · `RAG` · `NLP` · `LLM`
 
-Полированные адаптивные UI · сейчас ещё **RAG / AI** на Python в **Tomorrow School**
+Строю AI-решения с RAG · также **Frontend Developer** — выпускник «Фронтенд-разработчик» [Яндекс Практикум](https://practicum.yandex.kz/) (`React` · `Tailwind CSS` · `Bootstrap` · `TypeScript`)
 
 <br/>
 
